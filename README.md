@@ -25,7 +25,7 @@ O projeto IF-Dex utiliza as seguintes tecnologias:
 
 O design da IF-Dex foi criado utilizando o Figma. Para visualizar o design completo, clique no badge abaixo:
 
-![Figma Design](https://www.figma.com/file/S1wHjKm1Rbr83jd5MpuO6l/Untitled?type=design&node-id=3%3A179&mode=design&t=sf8fqVkoQHItzwqO-1)
+[Protótipo](https://www.figma.com/file/S1wHjKm1Rbr83jd5MpuO6l/Untitled?type=design&node-id=3%3A179&mode=design&t=sf8fqVkoQHItzwqO-1)
 
 ## Agradecimentos
 
